@@ -24,7 +24,7 @@ For running this script you'll need:
 ## Final Look:
 This is how the application looks when you run it.
 
-<img src="https://user-images.githubusercontent.com/68542629/102791274-c4dae000-43cc-11eb-912b-0f38ac3faa2f.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/68542629/102791274-c4dae000-43cc-11eb-912b-0f38ac3faa2f.jpg" width="275">
 
 ![Songs](https://user-images.githubusercontent.com/68542629/102791274-c4dae000-43cc-11eb-912b-0f38ac3faa2f.jpg=700x200)
 
